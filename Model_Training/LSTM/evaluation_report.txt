@@ -1,0 +1,11 @@
+AUC-ROC   : 0.8698
+Threshold : 0.50
+
+              precision    recall  f1-score   support
+
+        Safe     0.9666    0.8939    0.9288     30441
+   Dangerous     0.3453    0.6443    0.4496      2643
+
+    accuracy                         0.8740     33084
+   macro avg     0.6560    0.7691    0.6892     33084
+weighted avg     0.9170    0.8740    0.8906     33084
